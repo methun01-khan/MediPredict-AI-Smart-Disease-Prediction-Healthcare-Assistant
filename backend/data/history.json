@@ -1,0 +1,104 @@
+[
+  {
+    "user_id": "demo",
+    "symptoms": [
+      "fever",
+      "cough"
+    ],
+    "prediction": "Fungal infection",
+    "confidence": 72.0,
+    "severity": "Medium"
+  },
+  {
+    "user_id": "demo",
+    "symptoms": [
+      "fever"
+    ],
+    "prediction": "Fungal infection",
+    "confidence": 72.0,
+    "severity": "Medium"
+  },
+  {
+    "user_id": "demo",
+    "symptoms": [
+      "fever",
+      "pain"
+    ],
+    "prediction": "Fungal infection",
+    "confidence": 72.0,
+    "severity": "Medium"
+  },
+  {
+    "user_id": "demo",
+    "symptoms": [
+      "fever",
+      "pain",
+      "nausea"
+    ],
+    "prediction": "Fungal infection",
+    "confidence": 72.0,
+    "severity": "Medium"
+  },
+  {
+    "user_id": "demo",
+    "symptoms": [
+      "fever",
+      "pain",
+      "nausea",
+      "dizziness",
+      "diarrhea",
+      "rash"
+    ],
+    "prediction": "Fungal infection",
+    "confidence": 72.0,
+    "severity": "Medium"
+  },
+  {
+    "user_id": "demo",
+    "symptoms": [
+      "fever",
+      "pain",
+      "nausea",
+      "dizziness",
+      "diarrhea",
+      "rash",
+      "swelling",
+      "shortness of breath",
+      "vomiting",
+      "fatigue",
+      "headache",
+      "cough",
+      "wheezing"
+    ],
+    "prediction": "Fungal infection",
+    "confidence": 72.0,
+    "severity": "Medium"
+  },
+  {
+    "user_id": "demo",
+    "symptoms": [
+      "fever"
+    ],
+    "prediction": "Fungal infection",
+    "confidence": 72.0,
+    "severity": "Medium"
+  },
+  {
+    "user_id": "demo",
+    "symptoms": [
+      "pain"
+    ],
+    "prediction": "GERD",
+    "confidence": 64.0,
+    "severity": "Medium"
+  },
+  {
+    "user_id": "demo",
+    "symptoms": [
+      "fever"
+    ],
+    "prediction": "Fungal infection",
+    "confidence": 72.0,
+    "severity": "Medium"
+  }
+]

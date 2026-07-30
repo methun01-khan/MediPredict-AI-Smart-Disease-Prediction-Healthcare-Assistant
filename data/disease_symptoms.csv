@@ -1,0 +1,11 @@
+disease,fever,cough,headache,fatigue,pain,nausea,vomiting,shortness of breath,rash,diarrhea,dizziness,swelling,wheezing
+Fungal infection,1,0,0,1,0,0,0,0,1,0,0,0,0
+Allergy,0,1,0,1,0,0,0,0,1,0,0,0,1
+GERD,0,0,1,1,1,0,0,0,0,0,0,0,0
+Chronic cholestasis,1,0,1,1,0,0,0,0,0,0,0,0,0
+Drug Reaction,1,0,1,1,1,1,0,0,1,0,0,1,0
+Peptic ulcer disease,0,0,1,1,1,1,0,0,0,0,0,0,0
+AIDS,1,0,1,1,0,1,1,1,0,0,1,0,0
+Diabetes,0,0,0,1,0,0,0,0,0,0,1,0,0
+Gastroenteritis,1,0,0,1,1,1,1,0,0,1,0,0,0
+Bronchial Asthma,0,1,0,1,0,0,0,1,0,0,0,0,1
